@@ -118,7 +118,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## 📞 Contact
 
-Your Name - [Your Email]
+Bhanu Rathore - rathoreb853@gmail.com
 
 Project Link: [https://github.com/iamBhanuRathore/v0-clone](https://github.com/iamBhanuRathore/v0-clone)
 
