@@ -1,14 +1,11 @@
 require("dotenv").config();
 import express, { Request, Response } from "express";
+import router from "./routes";
 
 const app = express();
 app.use(express.json());
-app.get("/", (req, res) => {
-  res.json({
-    message: "Server is running",
-  });
-  return;
-});
+
+app.use("/", router);
 
 app.listen(8080, () => {
   console.log("Server is running");
